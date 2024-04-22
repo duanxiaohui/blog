@@ -5,8 +5,9 @@
 
 ## 要求
 
+### 使用组件库
+- vue项目用elemet UI，react项目用ant design。
 ### 页面结构
-- 使用组件库vue项目用elemet UI，react项目用ant design。
 - 使用HTML5来构建页面结构。
 - 页面应该包含以下部分：
   - 头部（Header）
